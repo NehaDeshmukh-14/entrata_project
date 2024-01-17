@@ -49,3 +49,8 @@
 2024-01-17 21:57:07,261 - Coverfox_Log -INFO - Validating actual and expected result
 2024-01-17 21:57:15,343 - Coverfox_Log -INFO - Test case pass
 2024-01-17 21:57:15,347 - Coverfox_Log -INFO - Closing browser
+2024-01-17 22:43:33,491 - Coverfox_Log -INFO - CoverFox URL launched
+2024-01-17 22:43:49,976 - Coverfox_Log -INFO - Information filled and clicking on continue button
+2024-01-17 22:43:49,981 - Coverfox_Log -INFO - Validating actual and expected result
+2024-01-17 22:43:58,193 - Coverfox_Log -INFO - Test case pass
+2024-01-17 22:43:58,204 - Coverfox_Log -INFO - Closing browser
