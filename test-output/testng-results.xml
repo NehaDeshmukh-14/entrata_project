@@ -11,30 +11,30 @@
       <![CDATA[Closing Browser ]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-01-18T01:07:08 IST" name="Suite" finished-at="2024-01-18T01:07:45 IST" duration-ms="36321">
+  <suite started-at="2024-01-18T17:32:32 IST" name="Suite" finished-at="2024-01-18T17:33:06 IST" duration-ms="33929">
     <groups>
     </groups>
-    <test started-at="2024-01-18T01:07:08 IST" name="Test" finished-at="2024-01-18T01:07:45 IST" duration-ms="36321">
+    <test started-at="2024-01-18T17:32:32 IST" name="Test" finished-at="2024-01-18T17:33:06 IST" duration-ms="33929">
       <class name="coverFoxTestNGTestCases.ValidatePlanResult_PropertiesFileData">
-        <test-method is-config="true" signature="url_launchCoverFox()[pri:0, instance:coverFoxTestNGTestCases.ValidatePlanResult_PropertiesFileData@206a70ef]" started-at="2024-01-18T01:07:08 IST" name="url_launchCoverFox" finished-at="2024-01-18T01:07:16 IST" duration-ms="7333" status="PASS">
+        <test-method is-config="true" signature="url_launchCoverFox()[pri:0, instance:coverFoxTestNGTestCases.ValidatePlanResult_PropertiesFileData@206a70ef]" started-at="2024-01-18T17:32:32 IST" name="url_launchCoverFox" finished-at="2024-01-18T17:32:38 IST" duration-ms="6095" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Opening Browser ]]>
             </line>
           </reporter-output>
         </test-method> <!-- url_launchCoverFox -->
-        <test-method is-config="true" signature="preRequisitesCoverFox()[pri:0, instance:coverFoxTestNGTestCases.ValidatePlanResult_PropertiesFileData@206a70ef]" started-at="2024-01-18T01:07:16 IST" name="preRequisitesCoverFox" finished-at="2024-01-18T01:07:32 IST" duration-ms="16520" status="PASS">
+        <test-method is-config="true" signature="preRequisitesCoverFox()[pri:0, instance:coverFoxTestNGTestCases.ValidatePlanResult_PropertiesFileData@206a70ef]" started-at="2024-01-18T17:32:38 IST" name="preRequisitesCoverFox" finished-at="2024-01-18T17:32:54 IST" duration-ms="15426" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preRequisitesCoverFox -->
-        <test-method signature="validatePlanResultsCoverFox()[pri:0, instance:coverFoxTestNGTestCases.ValidatePlanResult_PropertiesFileData@206a70ef]" started-at="2024-01-18T01:07:32 IST" name="validatePlanResultsCoverFox" finished-at="2024-01-18T01:07:40 IST" duration-ms="8219" status="PASS">
+        <test-method signature="validatePlanResultsCoverFox()[pri:0, instance:coverFoxTestNGTestCases.ValidatePlanResult_PropertiesFileData@206a70ef]" started-at="2024-01-18T17:32:54 IST" name="validatePlanResultsCoverFox" finished-at="2024-01-18T17:33:02 IST" duration-ms="8097" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Validating expected and actual result ]]>
             </line>
           </reporter-output>
         </test-method> <!-- validatePlanResultsCoverFox -->
-        <test-method is-config="true" signature="url_CloseCoverFox()[pri:0, instance:coverFoxTestNGTestCases.ValidatePlanResult_PropertiesFileData@206a70ef]" started-at="2024-01-18T01:07:40 IST" name="url_CloseCoverFox" finished-at="2024-01-18T01:07:45 IST" duration-ms="4166" status="PASS">
+        <test-method is-config="true" signature="url_CloseCoverFox()[pri:0, instance:coverFoxTestNGTestCases.ValidatePlanResult_PropertiesFileData@206a70ef]" started-at="2024-01-18T17:33:02 IST" name="url_CloseCoverFox" finished-at="2024-01-18T17:33:06 IST" duration-ms="4255" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing Browser ]]>

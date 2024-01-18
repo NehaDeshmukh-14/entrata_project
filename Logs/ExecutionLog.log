@@ -79,3 +79,13 @@
 2024-01-18 01:24:22,516 - Coverfox_Log -INFO - Validating actual and expected result
 2024-01-18 01:24:30,722 - Coverfox_Log -INFO - Test case pass
 2024-01-18 01:24:30,731 - Coverfox_Log -INFO - Closing browser
+2024-01-18 17:32:38,830 - Coverfox_Log -INFO - CoverFox URL launched
+2024-01-18 17:32:54,301 - Coverfox_Log -INFO - Information filled and clicking on continue button
+2024-01-18 17:32:54,313 - Coverfox_Log -INFO - Validating actual and expected result
+2024-01-18 17:33:02,398 - Coverfox_Log -INFO - Test case pass
+2024-01-18 17:33:02,403 - Coverfox_Log -INFO - Closing browser
+2024-01-18 17:33:36,101 - Coverfox_Log -INFO - CoverFox URL launched
+2024-01-18 17:33:51,598 - Coverfox_Log -INFO - Information filled and clicking on continue button
+2024-01-18 17:33:51,602 - Coverfox_Log -INFO - Validating actual and expected result
+2024-01-18 17:33:59,709 - Coverfox_Log -INFO - Test case pass
+2024-01-18 17:33:59,712 - Coverfox_Log -INFO - Closing browser
