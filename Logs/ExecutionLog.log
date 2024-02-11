@@ -1,91 +1,12 @@
-2024-01-11 00:22:58,214 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-11 00:24:14,588 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-11 00:27:52,444 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-11 00:31:28,267 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-11 00:31:44,047 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-11 00:31:44,054 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-11 00:31:52,160 - Coverfox_Log -INFO - Test case pass
-2024-01-11 00:31:52,167 - Coverfox_Log -INFO - Closing browser
-2024-01-16 20:00:04,225 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-16 20:00:32,838 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-16 20:55:06,912 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-16 20:55:25,175 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-16 20:55:25,192 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-16 20:55:33,329 - Coverfox_Log -INFO - Test case pass
-2024-01-16 20:55:33,338 - Coverfox_Log -INFO - Closing browser
-2024-01-16 20:56:28,328 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-16 20:56:45,156 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-16 20:56:45,173 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-16 20:56:53,309 - Coverfox_Log -INFO - Test case pass
-2024-01-16 20:56:53,319 - Coverfox_Log -INFO - Closing browser
-2024-01-16 20:58:23,500 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-16 20:58:40,401 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-16 20:58:40,405 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-16 20:58:48,535 - Coverfox_Log -INFO - Test case pass
-2024-01-16 20:58:48,540 - Coverfox_Log -INFO - Closing browser
-2024-01-16 21:16:29,058 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-16 23:20:07,101 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-16 23:20:22,926 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-16 23:20:22,930 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-16 23:20:31,026 - Coverfox_Log -INFO - Test case pass
-2024-01-16 23:20:31,030 - Coverfox_Log -INFO - Closing browser
-2024-01-17 21:06:37,220 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-17 21:06:52,678 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-17 21:06:52,682 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-17 21:07:00,771 - Coverfox_Log -INFO - Test case pass
-2024-01-17 21:07:00,775 - Coverfox_Log -INFO - Closing browser
-2024-01-17 21:54:05,021 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-17 21:54:20,865 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-17 21:54:20,876 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-17 21:54:28,980 - Coverfox_Log -INFO - Test case pass
-2024-01-17 21:54:28,987 - Coverfox_Log -INFO - Closing browser
-2024-01-17 21:55:11,736 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-17 21:55:27,421 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-17 21:55:27,428 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-17 21:55:35,519 - Coverfox_Log -INFO - Test case pass
-2024-01-17 21:55:35,524 - Coverfox_Log -INFO - Closing browser
-2024-01-17 21:56:51,877 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-17 21:57:07,256 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-17 21:57:07,261 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-17 21:57:15,343 - Coverfox_Log -INFO - Test case pass
-2024-01-17 21:57:15,347 - Coverfox_Log -INFO - Closing browser
-2024-01-17 22:43:33,491 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-17 22:43:49,976 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-17 22:43:49,981 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-17 22:43:58,193 - Coverfox_Log -INFO - Test case pass
-2024-01-17 22:43:58,204 - Coverfox_Log -INFO - Closing browser
-2024-01-18 01:07:16,088 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-18 01:07:32,746 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-18 01:07:32,754 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-18 01:07:40,966 - Coverfox_Log -INFO - Test case pass
-2024-01-18 01:07:40,982 - Coverfox_Log -INFO - Closing browser
-2024-01-18 01:08:04,500 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-18 01:08:21,100 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-18 01:08:21,112 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-18 01:08:29,315 - Coverfox_Log -INFO - Test case pass
-2024-01-18 01:08:29,326 - Coverfox_Log -INFO - Closing browser
-2024-01-18 01:13:50,278 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-18 01:14:06,680 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-18 01:14:06,686 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-18 01:14:14,840 - Coverfox_Log -INFO - Test case pass
-2024-01-18 01:14:14,843 - Coverfox_Log -INFO - Closing browser
-2024-01-18 01:20:20,747 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-18 01:20:37,049 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-18 01:20:37,053 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-18 01:20:45,160 - Coverfox_Log -INFO - Test case pass
-2024-01-18 01:20:45,165 - Coverfox_Log -INFO - Closing browser
-2024-01-18 01:24:06,149 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-18 01:24:22,505 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-18 01:24:22,516 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-18 01:24:30,722 - Coverfox_Log -INFO - Test case pass
-2024-01-18 01:24:30,731 - Coverfox_Log -INFO - Closing browser
-2024-01-18 17:32:38,830 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-18 17:32:54,301 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-18 17:32:54,313 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-18 17:33:02,398 - Coverfox_Log -INFO - Test case pass
-2024-01-18 17:33:02,403 - Coverfox_Log -INFO - Closing browser
-2024-01-18 17:33:36,101 - Coverfox_Log -INFO - CoverFox URL launched
-2024-01-18 17:33:51,598 - Coverfox_Log -INFO - Information filled and clicking on continue button
-2024-01-18 17:33:51,602 - Coverfox_Log -INFO - Validating actual and expected result
-2024-01-18 17:33:59,709 - Coverfox_Log -INFO - Test case pass
-2024-01-18 17:33:59,712 - Coverfox_Log -INFO - Closing browser
+2024-02-11 22:59:38,235 - zee5_log -INFO - URL launched
+2024-02-11 22:59:38,267 - zee5_log -INFO - Validating actual and expected result
+2024-02-11 23:02:26,873 - zee5_log -INFO - Closing browser
+2024-02-11 23:02:34,888 - zee5_log -INFO - URL launched
+2024-02-11 23:02:34,902 - zee5_log -INFO - Validating actual and expected result
+2024-02-11 23:02:36,091 - zee5_log -INFO - Closing browser
+2024-02-11 23:02:38,255 - zee5_log -INFO - URL launched
+2024-02-11 23:02:38,270 - zee5_log -INFO - Validating actual and expected result
+2024-02-11 23:02:43,734 - zee5_log -INFO - Closing browser
+2024-02-11 23:02:50,144 - zee5_log -INFO - URL launched
+2024-02-11 23:02:50,153 - zee5_log -INFO - Validating actual and expected result
+2024-02-11 23:02:50,512 - zee5_log -INFO - Closing browser
