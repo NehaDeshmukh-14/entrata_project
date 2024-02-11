@@ -3,14 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="coverFoxTestNGTestCases.ValidatePlanResult_PropertiesFileData">
+      <class name="testNGTestCases.TC004_Validate_toSchedule_Demo_form_accepting_Values">
         <methods>
-          <include name="url_launchCoverFox"/>
-          <include name="validatePlanResultsCoverFox"/>
-          <include name="url_CloseCoverFox"/>
-          <include name="preRequisitesCoverFox"/>
+          <include name="close_URL"/>
+          <include name="validate_Property_Manager_Login_Link_correctly_navigating_to_desired_Page"/>
+          <include name="url_launch"/>
         </methods>
-      </class> <!-- coverFoxTestNGTestCases.ValidatePlanResult_PropertiesFileData -->
+      </class> <!-- testNGTestCases.TC004_Validate_toSchedule_Demo_form_accepting_Values -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
